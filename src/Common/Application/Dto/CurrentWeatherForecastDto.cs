@@ -46,7 +46,7 @@ namespace Application.Dto
     {
         [JsonProperty(PropertyName = "1h")] 
         public double _1h { get; set; }
-        [JsonProperty(PropertyName = "3h")] 
+        [JsonProperty(PropertyName = "2h")] 
         public double _3h { get; set; }
     }
 
